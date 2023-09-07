@@ -1,0 +1,22 @@
+.discount {
+    text-transform: uppercase;
+    font-family: SegoeUI, sans-serif;
+    padding: 0 15px;
+}
+
+.discount__system {
+    display: flex;
+    font-size: 20px;
+}
+
+.discount__title {
+    font-size: 28px;
+}
+
+.discount__type {
+    padding: 0 20px;
+}
+
+.discount__nominal {
+    margin-right: 40px;
+}
